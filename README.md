@@ -16,3 +16,8 @@
 
 # (200710)토크ON 77차. 아파치 카프카 입문 1강 - Kafka 기본개념 및 생태계 | T아카데미 | SKplanet Tacademy
 - https://youtu.be/VJKZvOASvUA?si=sqNO9LYqHtc4z7Lo
+
+<hr />
+
+# (영문자료 250220) Kafka Tutorial for Beginners | Everything you need to get started | TechWorld with Nana
+- https://youtu.be/QkdkLdMBuL0?si=K4biasot8M702AE5
